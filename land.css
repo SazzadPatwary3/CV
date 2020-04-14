@@ -1,0 +1,107 @@
+*{
+    padding:0;
+    margin:0;
+}
+body{
+    background-color:#EEE;
+    font-family:'Times New Roman', Times, serif;
+}
+.sazzad{
+max-width:1000px;
+background-color: #e4f9f5;
+margin:0 auto;
+padding:20px;
+}
+.header{
+    
+}
+.profile-image{
+    width: 100px;
+    height: 120px;
+    border:3px solid white;
+    border-radius: 50%;
+    float: left;
+}
+.sa{
+
+    float: left;
+    padding:30px;
+}
+h1,h2,h3,h4,h5,h6{
+    color:#11999e;
+
+}
+.za{
+float: right;
+padding: 30px;
+
+}
+.za a{
+text-decoration: none;
+color: teal;
+
+
+
+}
+.za a:hover{
+text-decoration: underline;
+color: tomato;
+
+}
+.div-clear{
+    clear: both;
+
+}
+hr{
+    border:solid black 3px;
+    width: 100%;
+    margin: 20px auto;
+    border-bottom: none;
+}
+#personal-section{
+
+}
+.content{
+
+margin-bottom: 30px;
+}
+.left-div{
+    width:30%;
+    float: left;
+}
+.right-div{
+    width: 70%;
+    float: left;
+   
+}
+.right-div h4{
+    color: black;
+    font-weight: normal;
+}
+.right-div h2,h3,h4{
+    color:black;
+    
+    }
+.common-hr{
+    border:solid black 1px;
+    width: 100%;
+    margin: 20px auto;
+    border-bottom: none;
+}
+.K{
+    background-color: black;
+    text-align: center;
+    padding:10px;
+
+}
+.K a{
+    color: white;
+    text-decoration: none;
+    margin: 20px;
+    
+}
+.K p{
+    color: white;
+    margin-top: 20px;
+    
+}
